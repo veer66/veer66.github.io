@@ -8,7 +8,7 @@ I wonder about speed of programs written in different languages. For example, I 
 
 So @iporsut and me wrote some programs in different programming languages and tried to optimize them.
 
-I conducted a experiment on my laptop computer, which has Intel® Core™ i3-4030U CPU @ 1.90GHz × 4, on a 20MB Thai text corpus.  
+I conducted the experiment on my laptop computer, which has Intel® Core™ i3-4030U CPU @ 1.90GHz × 4, on a 20MB Thai text corpus.  
 
 | Lang | 1 (seconds) | 2 (seconds) | 3 (seconds) | AVG (seconds) |
 |------|---|---|---|-----|
