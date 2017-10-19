@@ -25,7 +25,7 @@ I conducted the experiment on my laptop computer, which has Intel® Core™ i3-4
 
 | Env | Source |
 |-----|--------|
-| Rust Nightly 2017-01-08 | [source](https://gitlab.com/veer66/chamkho) |
+| Rust Nightly 2017-01-08 | [source](https://github.com/veer66/chamkho) |
 | Go 1.7.4 | [source](https://gitlab.com/veer66/mapkha) |
 | Crystal 0.20.5 | [source](https://gitlab.com/veer66/kachet) |
 | Kotlin 1.0.6 + Clojure 1.8.0 + OpenJDK 1.8 | [source](https://gitlab.com/veer66/yaito), [source](https://gitlab.com/veer66/yaito-clj) |
