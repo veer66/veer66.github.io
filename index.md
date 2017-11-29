@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[./latin-thai-scripts-for-pāli](pali) [@vsatayamas](sns) [;TODO](todo) [./contrib](contribute) [./bookmark](bookmark)
+[./latin-thai-scripts-for-pāli](pali) [SNS](sns) [;TODO](todo) [./contrib](contribute) [./bookmark](bookmark)
